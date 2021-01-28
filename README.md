@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hieudev91vn" target="blank"><img src="https://img.shields.io/twitter/follow/hieudev91vn?logo=twitter&style=for-the-badge" alt="hieudev91vn" /></a> </p>
 
-- 🔭 I’m currently working on **FPT Software**
+- 🔭 I’m currently working on **Beatrix Software**
 
 - 🌱 I’m currently learning **Torrens University**
 
